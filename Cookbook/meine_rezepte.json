@@ -1,0 +1,180 @@
+[
+  {
+    "titel": "Spaghetti Bolognese",
+    "kategorie": "Hauptgericht",
+    "portionen": 4,
+    "zubereitungszeit": 45,
+    "zutaten": [
+      "400 g Spaghetti",
+      "500 g Rinderhackfleisch",
+      "1 Zwiebel",
+      "2 Knoblauchzehen",
+      "400 g gehackte Tomaten",
+      "2 EL Tomatenmark",
+      "2 EL Olivenöl",
+      "Salz",
+      "Pfeffer",
+      "Oregano"
+    ],
+    "zubereitung": "Zwiebel und Knoblauch fein hacken und in Olivenöl anbraten. Hackfleisch hinzufügen und krümelig anbraten. Tomatenmark kurz mitrösten, anschließend die gehackten Tomaten dazugeben. Mit Salz, Pfeffer und Oregano würzen und 30 Minuten köcheln lassen. Mit gekochten Spaghetti servieren.",
+    "bildPfad": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9",
+    "notizen": "Mit frisch geriebenem Parmesan servieren."
+  },
+  {
+    "titel": "Hähnchen-Curry",
+    "kategorie": "Hauptgericht",
+    "portionen": 4,
+    "zubereitungszeit": 35,
+    "zutaten": [
+      "500 g Hähnchenbrust",
+      "1 Dose Kokosmilch",
+      "2 EL Currypaste",
+      "1 Paprika",
+      "1 Zwiebel",
+      "1 EL Öl",
+      "200 g Basmatireis"
+    ],
+    "zubereitung": "Reis garen. Zwiebel und Paprika würfeln. Hähnchen anbraten, Gemüse hinzufügen und kurz mitbraten. Currypaste unterrühren, Kokosmilch dazugeben und 15 Minuten köcheln lassen. Mit Reis servieren.",
+    "bildPfad": "https://images.unsplash.com/photo-1604908176997-431a01b6f0b4",
+    "notizen": "Mit Koriander garnieren."
+  },
+  {
+    "titel": "Caesar Salad",
+    "kategorie": "Salat",
+    "portionen": 2,
+    "zubereitungszeit": 20,
+    "zutaten": [
+      "1 Romanasalat",
+      "150 g Hähnchenbrust",
+      "50 g Parmesan",
+      "Croutons",
+      "Caesar-Dressing"
+    ],
+    "zubereitung": "Hähnchen anbraten und in Scheiben schneiden. Salat waschen und zerkleinern. Mit Dressing vermengen und Hähnchen, Parmesan sowie Croutons darübergeben.",
+    "bildPfad": "https://images.unsplash.com/photo-1546793665-c74683f339c1",
+    "notizen": "Auch ohne Hähnchen lecker."
+  },
+  {
+    "titel": "Tomatensuppe",
+    "kategorie": "Suppe",
+    "portionen": 4,
+    "zubereitungszeit": 30,
+    "zutaten": [
+      "800 g Tomaten",
+      "1 Zwiebel",
+      "2 Knoblauchzehen",
+      "500 ml Gemüsebrühe",
+      "2 EL Olivenöl",
+      "Basilikum",
+      "Salz",
+      "Pfeffer"
+    ],
+    "zubereitung": "Zwiebel und Knoblauch anbraten. Tomaten würfeln und hinzufügen. Brühe angießen und 20 Minuten köcheln lassen. Pürieren und abschmecken.",
+    "bildPfad": "https://images.unsplash.com/photo-1547592180-85f173990554",
+    "notizen": "Mit Sahne verfeinern."
+  },
+  {
+    "titel": "Pfannkuchen",
+    "kategorie": "Frühstück",
+    "portionen": 2,
+    "zubereitungszeit": 20,
+    "zutaten": [
+      "200 g Mehl",
+      "2 Eier",
+      "300 ml Milch",
+      "1 TL Backpulver",
+      "1 Prise Salz"
+    ],
+    "zubereitung": "Alle Zutaten zu einem glatten Teig verrühren. Portionsweise in einer heißen Pfanne goldbraun ausbacken.",
+    "bildPfad": "https://images.unsplash.com/photo-1528207776546-365bb710ee93",
+    "notizen": "Mit Ahornsirup oder Marmelade servieren."
+  },
+  {
+    "titel": "Griechischer Salat",
+    "kategorie": "Salat",
+    "portionen": 2,
+    "zubereitungszeit": 15,
+    "zutaten": [
+      "2 Tomaten",
+      "1 Gurke",
+      "1 rote Zwiebel",
+      "150 g Feta",
+      "Oliven",
+      "Olivenöl",
+      "Oregano"
+    ],
+    "zubereitung": "Gemüse grob würfeln. Feta darübergeben. Mit Olivenöl und Oregano würzen und vermengen.",
+    "bildPfad": "https://images.unsplash.com/photo-1505253716362-afaea6d3d1af",
+    "notizen": "Schmeckt besonders gut mit frischem Brot."
+  },
+  {
+    "titel": "Rührei mit Kräutern",
+    "kategorie": "Frühstück",
+    "portionen": 2,
+    "zubereitungszeit": 10,
+    "zutaten": [
+      "4 Eier",
+      "20 g Butter",
+      "Schnittlauch",
+      "Petersilie",
+      "Salz",
+      "Pfeffer"
+    ],
+    "zubereitung": "Eier verquirlen. Butter erhitzen und die Eier unter ständigem Rühren stocken lassen. Kräuter unterheben und würzen.",
+    "bildPfad": "https://images.unsplash.com/photo-1525351484163-7529414344d8",
+    "notizen": "Mit Toast servieren."
+  },
+  {
+    "titel": "Chili con Carne",
+    "kategorie": "Hauptgericht",
+    "portionen": 4,
+    "zubereitungszeit": 50,
+    "zutaten": [
+      "500 g Hackfleisch",
+      "1 Dose Kidneybohnen",
+      "1 Dose Mais",
+      "400 g gehackte Tomaten",
+      "1 Zwiebel",
+      "Chilipulver",
+      "Paprikapulver"
+    ],
+    "zubereitung": "Hackfleisch und Zwiebel anbraten. Tomaten, Bohnen und Mais hinzufügen. Würzen und 30 Minuten köcheln lassen.",
+    "bildPfad": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "notizen": "Mit Reis oder Baguette servieren."
+  },
+  {
+    "titel": "Tiramisu",
+    "kategorie": "Dessert",
+    "portionen": 8,
+    "zubereitungszeit": 30,
+    "zutaten": [
+      "500 g Mascarpone",
+      "4 Eier",
+      "100 g Zucker",
+      "200 g Löffelbiskuits",
+      "300 ml Espresso",
+      "Kakaopulver"
+    ],
+    "zubereitung": "Creme aus Eigelb, Zucker und Mascarpone herstellen. Eiweiß unterheben. Löffelbiskuits in Espresso tauchen und abwechselnd mit der Creme schichten. Kühlen und mit Kakao bestäuben.",
+    "bildPfad": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9",
+    "notizen": "Mindestens 6 Stunden kühlen."
+  },
+  {
+    "titel": "Schokoladenmuffins",
+    "kategorie": "Dessert",
+    "portionen": 12,
+    "zubereitungszeit": 35,
+    "zutaten": [
+      "250 g Mehl",
+      "180 g Zucker",
+      "2 Eier",
+      "100 g Butter",
+      "200 ml Milch",
+      "50 g Kakaopulver",
+      "1 Päckchen Backpulver"
+    ],
+    "zubereitung": "Alle Zutaten zu einem Teig verrühren. In Muffinförmchen füllen und bei 180 °C etwa 25 Minuten backen.",
+    "bildPfad": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c",
+    "notizen": "Mit Schokostückchen besonders saftig."
+  }
+]
